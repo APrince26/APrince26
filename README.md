@@ -21,15 +21,22 @@ Here are some of the tools and technologies I use:
 ---
 
 ### Projects
-Here’s a snapshot of some exciting work I’ve done:
+Here are some of my highlighted repositories:
 
-- 🤖 **PCB Design Quality Predictor**: Developed a CNN using TensorFlow, achieving **92% accuracy** in evaluating PCB designs.
-- 🕊️ **Pigeon Delivery Platformer**: Designed a Unity game where players control a pigeon delivering messages through urban landscapes.  
-- 📱 **Homestart Web App**: Created a full-stack app for a nonprofit, anonymously surveying over 1,000 clients and streamlining data sharing with donors.  
-- 📊 **Sentiment Analysis**: Built a feedforward neural network to analyze sentiment, fine-tuning hyperparameters to improve performance.  
-- 🌍 **World Happiness Clustering**: Used unsupervised learning to cluster countries based on economic and social factors, uncovering key global trends.
+1. 🖥️ [**Fall AI Studio: CNN for Printed Circuit Boards**](https://github.com/APrince26/CNN-Printed-Circut-Board-)  
+   - **Overview**: Developed a convolutional neural network (CNN) to predict the quality of PCB designs.  
+   - **Goals**: Evaluate crossings, connection lengths, and component proximity, optimizing the design architecture.  
+   - **Results**: Achieved **92% accuracy** and improved design efficiency by 15%.  
+   - **Next Steps**: Explore reinforcement learning techniques to further optimize design quality.  
 
-Check out more of my work [here](https://github.com/APrince26).
+2. 🕊️ [**Pigeon Delivery Platformer**](https://github.com/APrince26/pigeon-delivery-platformer)  
+   - A Unity game where players control a pigeon navigating through a city to deliver messages while avoiding obstacles.  
+
+3. 📊 [**Sentiment Analysis Neural Network**] 
+   - Built a feedforward neural network for sentiment analysis, improving performance through hyperparameter tuning.  
+
+4. 🌍 [**World Happiness Clustering**]
+   - Used unsupervised learning to cluster countries based on socioeconomic factors and analyze global trends.
 
 ---
 
